@@ -51,18 +51,18 @@ const currentIndex = ref(0);
 
 const vehicles = [
   {
-    title: "Ônibus SS Facility",
+    title: "Ônibus Executivo 46 Lugares",
     description:
-      "Ideal para transporte diário de equipes, empresas, obras e operações industriais.",
+      "Ônibus confiável, equipado com motor Mercedes-Benz, ideal para transporte empresarial diário. Veículo com capacidade para 46 passageiros, manutenção em dia e revisões constantes para garantir segurança, pontualidade e qualidade no atendimento.",
     image: onibusSsFacility,
-    alt: "Ônibus branco da SS Facility Transporte Empresarial",
+    alt: "Ônibus SS Facility Transporte Empresarial com 46 lugares e motor Mercedes-Benz",
   },
   {
-    title: "Van SS Facility",
+    title: "Van Renault Master 15 Lugares",
     description:
-      "Perfeita para transporte de grupos menores, com conforto e segurança.",
+      "Van Renault Master ano 2016, muito confiável e ideal para transporte de equipes menores. Veículo com capacidade para 15 passageiros, manutenção em dia e revisões constantes, garantindo segurança, conforto e eficiência no transporte empresarial.",
     image: vanSsFacility,
-    alt: "Van branca da SS Facility Transporte Empresarial",
+    alt: "Van Renault Master SS Facility com 15 lugares para transporte empresarial",
   },
 ];
 
