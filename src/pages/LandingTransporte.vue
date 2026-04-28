@@ -29,6 +29,7 @@
       </div>
     </section>
     <VehicleCarousel />
+    <ServicesSection />
     <section class="section-destaque-seguranca">
       <div class="destaque-container">
         <div class="destaque-texto">
@@ -64,4 +65,5 @@
 </template>
 <script setup lang="ts">
 import VehicleCarousel from "../components/VehicleCarousel.vue";
+import ServicesSection from "../components/ServicesSection.vue";
 </script>
