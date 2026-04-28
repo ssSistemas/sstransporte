@@ -4,10 +4,8 @@
       <div class="hero-content">
         <p class="tag">SS Facility Transporte Empresarial</p>
 
-        <h1>
-          Transporte empresarial em Serra do Salitre/MG para funcionários e
-          equipes
-        </h1>
+        <h1>Transporte empresarial</h1>
+        <h2>Serra do Salitre/MG</h2>
 
         <p class="subtitle">
           Levamos colaboradores com segurança, pontualidade e conforto para
